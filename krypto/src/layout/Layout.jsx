@@ -25,7 +25,7 @@ const Layout = () => {
         <Analytics />
       </div>
 
-      <div className="bg-[#010922]">
+      <div className="bg-[#010922] ">
         <Analytics2 />
       </div>
       <div className="bg-[#010922]">
