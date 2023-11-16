@@ -7,7 +7,9 @@ const Testimonials = () => {
   return (
     <>
       <div className="pt-10 pb-5 max-w-[1440px] mx-auto h-auto  w-full">
-        <div>
+        <div className="relative">
+          <div className=" shine4"></div>
+
           <h2 className="text-[#88D0D1] text-center  text-xl font-semibold my-3 ">
             TESTIMONIALS
           </h2>

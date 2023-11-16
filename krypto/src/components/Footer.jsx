@@ -13,7 +13,8 @@ const Footer = () => {
                 </span>
               </a>
             </div>
-            <div class="grid grid-cols-3 flex-1 gap-8 sm:gap-6 sm:grid-cols-3">
+
+            <div class="grid relative grid-cols-3 flex-1 gap-8 sm:gap-6 sm:grid-cols-3">
               <div>
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
                   krypto

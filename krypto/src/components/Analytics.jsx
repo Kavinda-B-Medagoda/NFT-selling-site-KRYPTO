@@ -3,11 +3,13 @@ import img1 from "../assets/o3.png";
 
 const Analytics = () => {
   return (
-    <div className="pt-10 max-w-[1440px] mx-auto lg:flex h-[100vh]  md:flex md:items-center md:justify-between w-full">
+    <div className="pt-10 relative max-w-[1440px] mx-auto lg:flex md:h-[100vh] h-[70vh] md:flex md:items-center md:justify-between w-full">
       <div className="right order-2 px-5 md:flex-1 md:px-14 md:flex md:flex-col">
         <h2 className=" text-[#88D0D1] text-center md:text-left text-xl font-semibold my-3">
           ANALYTICS
         </h2>
+        <div className=" shine3"></div>
+
         <h2 className=" text-4xl font-bold text-white text-left mb-5 md:text-6xl">
           Built-In Analytics To Track Your NFTs
         </h2>

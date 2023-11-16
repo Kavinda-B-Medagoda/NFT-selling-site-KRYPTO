@@ -3,8 +3,10 @@ import img1 from "../assets/o2.png";
 
 const Analytics2 = () => {
   return (
-    <div className="pt-1 max-w-[1440px] mx-auto lg:flex h-[100vh]  md:flex md:items-center md:justify-between w-full">
-      <div className="right px-5 md:flex-1 md:px-14 md:flex md:flex-col">
+    <div className="pt-1 max-w-[1440px] mx-auto lg:flex md:h-[100vh] h-[70vh] md:flex md:items-center md:justify-between w-full">
+      <div className="right px-5 md:flex-1 md:px-14 md:flex md:flex-col relative">
+        <div className=" shine3"></div>
+
         <h2 className=" text-[#88D0D1] text-center md:text-left text-xl font-semibold my-3">
           Mobile App
         </h2>

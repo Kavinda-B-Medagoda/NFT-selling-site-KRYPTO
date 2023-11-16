@@ -3,7 +3,7 @@ import img1 from "../assets/o1.png";
 
 const Hero = () => {
   return (
-    <div className="pt-10 max-w-[1440px] mx-auto lg:flex h-[89vh] md:pt-20 md:flex md:items-center md:justify-between w-full">
+    <div className="pt-10 max-w-[1440px] mx-auto lg:flex md:h-[89vh] h-[65vh] md:pt-20 md:flex md:items-center md:justify-between w-full">
       <div className="left px-5 md:flex-1 md:px-14 md:flex md:flex-col">
         <h2 className=" text-4xl font-bold text-white text-left mb-5 md:text-8xl">
           Discover And Collect Rare NFTs

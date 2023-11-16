@@ -12,7 +12,7 @@ const stats = [
 
 export default function Featured() {
   return (
-    <div className="py-1 sm:py-10 lg:py-20 max-w-[1440px] mx-auto">
+    <div className="py-1 sm:py-10 lg:py-20 max-w-[1440px] mx-auto md:h-[40vh] h-[55vh]">
       <h2 className=" text-[#88D0D1]  font-semibold text-xl text-center my-10">
         FEATURED ON
       </h2>
