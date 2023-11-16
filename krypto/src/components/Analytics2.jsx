@@ -3,10 +3,10 @@ import img1 from "../assets/o2.png";
 
 const Analytics2 = () => {
   return (
-    <div className="pt-10 max-w-[1440px] mx-auto lg:flex h-[100vh]  md:flex md:items-center md:justify-between w-full">
+    <div className="pt-1 max-w-[1440px] mx-auto lg:flex h-[100vh]  md:flex md:items-center md:justify-between w-full">
       <div className="right px-5 md:flex-1 md:px-14 md:flex md:flex-col">
         <h2 className=" text-[#88D0D1] text-center md:text-left text-xl font-semibold my-3">
-          ANALYTICS
+          Mobile App
         </h2>
         <h2 className=" text-4xl font-bold text-white text-left mb-5 md:text-6xl">
           Awesome Mobile App For Analysis NFTs

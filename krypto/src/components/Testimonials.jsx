@@ -6,7 +6,7 @@ import img3 from "../assets/p3.png";
 const Testimonials = () => {
   return (
     <>
-      <div className="pt-32 pb-5 max-w-[1440px] mx-auto h-auto  w-full">
+      <div className="pt-10 pb-5 max-w-[1440px] mx-auto h-auto  w-full">
         <div>
           <h2 className="text-[#88D0D1] text-center  text-xl font-semibold my-3 ">
             TESTIMONIALS
